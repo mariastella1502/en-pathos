@@ -1,0 +1,17 @@
+# Ambiente virtuale
+.venv/
+venv/
+
+# Dataset
+data/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# File locali
+.DS_Store
+.env
+.env.*
+*.log
