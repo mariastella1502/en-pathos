@@ -1,0 +1,86 @@
+{
+  "rigidity": [
+    "natural_pause",
+    "gentle_opening",
+    "conversational_reformulation",
+    "adaptive_register",
+    "active_listening",
+    "nonformulaic_acknowledgement",
+    "turn_taking",
+    "appropriate_humor",
+    "exploratory_question",
+    "responsive_pacing"
+  ],
+  "information_relevance": [
+    "core_issue_identification",
+    "relevant_detail_selection",
+    "concise_response",
+    "contextual_reference",
+    "progressive_disclosure",
+    "avoid_unrequested_advice",
+    "priority_ordering",
+    "single_focus_followup",
+    "listener_knowledge_adaptation",
+    "avoid_repetition"
+  ],
+  "harshness": [
+    "softened_wording",
+    "nonaccusatory_language",
+    "respectful_correction",
+    "emotion_acknowledgement",
+    "calm_delivery",
+    "face_saving",
+    "boundary_respect",
+    "nonjudgmental_question",
+    "gentle_disagreement",
+    "avoid_shaming"
+  ],
+  "negativity": [
+    "realistic_reassurance",
+    "avoid_catastrophizing",
+    "balanced_framing",
+    "acknowledge_difficulty",
+    "constructive_next_step",
+    "uncertainty_tolerance",
+    "nonminimizing_hope",
+    "strength_recognition",
+    "neutral_fact_framing",
+    "emotional_containment"
+  ],
+  "genericity": [
+    "specific_fact_reference",
+    "individual_need_identification",
+    "targeted_question",
+    "contextual_suggestion",
+    "prior_turn_continuity",
+    "personalized_reflection",
+    "concrete_example",
+    "constraint_awareness",
+    "situational_summary",
+    "actionable_followup"
+  ],
+  "overconfidence": [
+    "uncertainty_expression",
+    "avoid_mindreading",
+    "permission_before_advice",
+    "respect_autonomy",
+    "tentative_hypothesis",
+    "admit_limits",
+    "ask_for_correction",
+    "avoid_paternalism",
+    "calibrated_claim",
+    "perspective_check"
+  ],
+  "automatic_agreement": [
+    "respectful_dissent",
+    "reasoned_counterpoint",
+    "alternative_perspective",
+    "behavior_not_identity_critique",
+    "constructive_alternative",
+    "clarify_assumptions",
+    "identify_tradeoff",
+    "truthful_pushback",
+    "validate_without_endorsing",
+    "nonimposing_recommendation"
+  ]
+}

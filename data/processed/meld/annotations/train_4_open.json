@@ -1,0 +1,438 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_4.mp4",
+  "mode": "open",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy": null,
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frame_times": [
+        0.25,
+        4.08,
+        7.92,
+        11.75
+      ],
+      "analysis": {
+        "scene_summary": "A man and a woman are having a conversation in a hallway. The man is holding a red rose and appears to be asking about the woman's interview. The woman seems surprised and slightly uncomfortable.",
+        "observations": [
+          {
+            "gap": "rigidity",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 0.25,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 4.08,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 7.92,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 11.75,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "asking about the interview",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, well, the woman I interviewed with was pretty tough, but, you know, thank God Mark coached me",
+            "evidence_frame_time": 11.75,
+            "interpretation": "The man is asking about the interview, possibly seeking reassurance or sharing his experience.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "harshness",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 0.25,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "harshness",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 4.08,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "harshness",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 7.92,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "harshness",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 11.75,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "negativity",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 0.25,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "negativity",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 4.08,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "negativity",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 7.92,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          },
+          {
+            "gap": "negativity",
+            "behavior": "avoiding direct eye contact",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 11.75,
+            "interpretation": "The woman avoids looking directly at the man, which might indicate discomfort or uncertainty.",
+            "confidence": 0.6
+          }
+        ],
+        "unknowns": [
+          "The woman's full response to the man's question about the interview",
+          "The man's full response to the woman's initial statement",
+          "The reason for the woman's discomfort or uncertainty"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frame_times": [
+        9.25,
+        13.08,
+        16.92,
+        20.75
+      ],
+      "analysis": {
+        "scene_summary": "A man and a woman are engaged in a conversation, with the man expressing his feelings of being jealous and the woman responding with pride and an apology.",
+        "observations": [
+          {
+            "gap": "rigidity",
+            "behavior": "expressing feelings",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Listen, I'm, uh...",
+            "evidence_frame_time": 18.96,
+            "interpretation": "The man is attempting to express his feelings of jealousy in a non-confrontational manner.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "acknowledging feelings",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I'm sorry I've been so crazy and jealous, and...",
+            "evidence_frame_time": 21.0,
+            "interpretation": "The man is acknowledging his feelings of jealousy and seeking forgiveness.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "pride",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I'm so proud of you.",
+            "evidence_frame_time": 16.080000000000002,
+            "interpretation": "The woman is expressing pride in the man's performance, possibly related to his job interview.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "apology",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Me too.",
+            "evidence_frame_time": 17.2,
+            "interpretation": "The woman is acknowledging the man's apology and expressing her own feelings of being jealous.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "emotional connection",
+            "polarity": "helpful",
+            "modality": "multimodal",
+            "evidence_quote": null,
+            "evidence_frame_time": 16.92,
+            "interpretation": "The woman's body language and facial expression suggest she is feeling emotional and possibly hurt.",
+            "confidence": 0.7
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "emotional connection",
+            "polarity": "helpful",
+            "modality": "multimodal",
+            "evidence_quote": null,
+            "evidence_frame_time": 20.75,
+            "interpretation": "The man's body language and facial expression suggest he is feeling apologetic and remorseful.",
+            "confidence": 0.7
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "emotional connection",
+            "polarity": "helpful",
+            "modality": "multimodal",
+            "evidence_quote": null,
+            "evidence_frame_time": 13.08,
+            "interpretation": "The woman's body language and facial expression suggest she is feeling hurt and possibly defensive.",
+            "confidence": 0.7
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "emotional connection",
+            "polarity": "helpful",
+            "modality": "multimodal",
+            "evidence_quote": null,
+            "evidence_frame_time": 9.25,
+            "interpretation": "The man's body language and facial expression suggest he is feeling defensive and possibly hurt.",
+            "confidence": 0.7
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "emotional connection",
+            "polarity": "helpful",
+            "modality": "multimodal",
+            "evidence_quote": null,
+            "evidence_frame_time": 12.14,
+            "interpretation": "The woman's body language and facial expression suggest she is feeling hurt and possibly defensive.",
+            "confidence": 0.7
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "emotional connection",
+            "polarity": "helpful",
+            "modality": "multimodal",
+            "evidence_quote": null,
+            "evidence_frame_time": 12.24,
+            "interpretation": "The man's body language and facial expression suggest he is feeling defensive and possibly hurt.",
+            "confidence": 0.7
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "emotional connection",
+            "polarity": "helpful",
+            "modality": "multimodal",
+            "evidence_quote": null,
+            "evidence_frame_time": 17.72,
+            "interpretation": "The woman's body language and facial expression suggest she is feeling hurt and possibly defensive.",
+            "confidence": 0.7
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "emotional connection",
+            "polarity": "helpful",
+            "modality": "multimodal",
+            "evidence_quote": null,
+            "evidence_frame_time": 18.96,
+            "interpretation": "The man's body language and facial expression suggest he is feeling defensive and possibly hurt.",
+            "confidence": 0.7
+          }
+        ],
+        "unknowns": [
+          "The specific nature of the man's job interview and the reason for his jealousy.",
+          "The full context of the woman's pride and the man's apology.",
+          "The full context of the woman's pride and the man's apology."
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frame_times": [
+        18.25,
+        22.08,
+        25.92,
+        29.75
+      ],
+      "analysis": {
+        "scene_summary": "A man and a woman are engaged in a conversation, with the man expressing his feelings and the woman responding.",
+        "observations": [
+          {
+            "gap": "rigidity",
+            "behavior": "expressing feelings",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I'm sorry I've been so crazy and jealous, and...",
+            "evidence_frame_time": 18.25,
+            "interpretation": "The man is expressing his feelings of being jealous and crazy, which is a helpful step in the conversation.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "acknowledging feelings",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "It's just I like you a lot, so...",
+            "evidence_frame_time": 25.92,
+            "interpretation": "The man is acknowledging his feelings for the woman, which is a helpful step in the conversation.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "listening",
+            "polarity": "helpful",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 29.75,
+            "interpretation": "The woman is listening attentively to the man, which is a helpful step in the conversation.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "acknowledging feelings",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah?",
+            "evidence_frame_time": 29.32,
+            "interpretation": "The woman is acknowledging the man's feelings, which is a helpful step in the conversation.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "acknowledging feelings",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah.",
+            "evidence_frame_time": 29.6,
+            "interpretation": "The woman is acknowledging the man's feelings, which is a helpful step in the conversation.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "acknowledging feelings",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I know.",
+            "evidence_frame_time": 25.94,
+            "interpretation": "The woman is acknowledging the man's feelings, which is a helpful step in the conversation.",
+            "confidence": 0.8
+          }
+        ],
+        "unknowns": [
+          "The specific nature of the man's feelings and the woman's response to them.",
+          "The context of the conversation and the relationship between the man and the woman."
+        ]
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 30.11,
+      "frame_times": [
+        27.25,
+        29.86
+      ],
+      "analysis": {
+        "scene_summary": "A woman and a man are engaged in a conversation, with the woman expressing feelings towards the man. The man responds affirmatively, and the woman seems to be seeking validation.",
+        "observations": [
+          {
+            "gap": "rigidity",
+            "behavior": "expressing feelings",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "It's just I like you a lot, so...",
+            "evidence_frame_time": 27.25,
+            "interpretation": "The woman is expressing her feelings openly and directly.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "affirmation",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I know.",
+            "evidence_frame_time": 28.24,
+            "interpretation": "The man acknowledges the woman's feelings, showing understanding and support.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "confirmation",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah?",
+            "evidence_frame_time": 29.32,
+            "interpretation": "The woman is seeking confirmation of the man's understanding of her feelings.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "rigidity",
+            "behavior": "affirmation",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah.",
+            "evidence_frame_time": 30.0,
+            "interpretation": "The man confirms his understanding of the woman's feelings, reinforcing the connection.",
+            "confidence": 0.8
+          }
+        ],
+        "unknowns": [
+          "The specific nature of the relationship between the characters.",
+          "The context of the conversation and the reasons behind the woman's feelings."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_4.mp4",
+  "mode": "guided",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy": {
+    "rigidity": [
+      "natural_pause",
+      "gentle_opening",
+      "conversational_reformulation",
+      "adaptive_register",
+      "active_listening",
+      "nonformulaic_acknowledgement",
+      "turn_taking",
+      "appropriate_humor",
+      "exploratory_question",
+      "responsive_pacing"
+    ],
+    "information_relevance": [
+      "core_issue_identification",
+      "relevant_detail_selection",
+      "concise_response",
+      "contextual_reference",
+      "progressive_disclosure",
+      "avoid_unrequested_advice",
+      "priority_ordering",
+      "single_focus_followup",
+      "listener_knowledge_adaptation",
+      "avoid_repetition"
+    ],
+    "harshness": [
+      "softened_wording",
+      "nonaccusatory_language",
+      "respectful_correction",
+      "emotion_acknowledgement",
+      "calm_delivery",
+      "face_saving",
+      "boundary_respect",
+      "nonjudgmental_question",
+      "gentle_disagreement",
+      "avoid_shaming"
+    ],
+    "negativity": [
+      "realistic_reassurance",
+      "avoid_catastrophizing",
+      "balanced_framing",
+      "acknowledge_difficulty",
+      "constructive_next_step",
+      "uncertainty_tolerance",
+      "nonminimizing_hope",
+      "strength_recognition",
+      "neutral_fact_framing",
+      "emotional_containment"
+    ],
+    "genericity": [
+      "specific_fact_reference",
+      "individual_need_identification",
+      "targeted_question",
+      "contextual_suggestion",
+      "prior_turn_continuity",
+      "personalized_reflection",
+      "concrete_example",
+      "constraint_awareness",
+      "situational_summary",
+      "actionable_followup"
+    ],
+    "overconfidence": [
+      "uncertainty_expression",
+      "avoid_mindreading",
+      "permission_before_advice",
+      "respect_autonomy",
+      "tentative_hypothesis",
+      "admit_limits",
+      "ask_for_correction",
+      "avoid_paternalism",
+      "calibrated_claim",
+      "perspective_check"
+    ],
+    "automatic_agreement": [
+      "respectful_dissent",
+      "reasoned_counterpoint",
+      "alternative_perspective",
+      "behavior_not_identity_critique",
+      "constructive_alternative",
+      "clarify_assumptions",
+      "identify_tradeoff",
+      "truthful_pushback",
+      "validate_without_endorsing",
+      "nonimposing_recommendation"
+    ]
+  },
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frame_times": [
+        0.25,
+        4.08,
+        7.92,
+        11.75
+      ],
+      "analysis": {
+        "gap": "information_relevance",
+        "behavior": "core_issue_identification",
+        "polarity": "ambiguous",
+        "modality": "visual",
+        "evidence_quote": null,
+        "evidence_frame_time": 0.25,
+        "evidence_description": "The woman is surprised and slightly uncomfortable, suggesting the topic of the interview is sensitive.",
+        "interpretation": "The woman's body language and facial expression indicate that the interview topic is sensitive or uncomfortable.",
+        "confidence": 0.6
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frame_times": [
+        9.25,
+        13.08,
+        16.92,
+        20.75
+      ],
+      "analysis": {
+        "gap": "information_relevance",
+        "behavior": "core_issue_identification",
+        "polarity": "helpful",
+        "modality": "verbal",
+        "evidence_quote": "Oh, well, the woman I interviewed with was pretty tough, but, you know, thank God Mark coached me",
+        "evidence_frame_time": 9.25,
+        "evidence_description": "The speaker is expressing gratitude for someone's coaching, indicating a positive outcome.",
+        "interpretation": "The speaker is acknowledging the help received and the successful result of the coaching.",
+        "confidence": 0.8
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frame_times": [
+        18.25,
+        22.08,
+        25.92,
+        29.75
+      ],
+      "analysis": {
+        "scene_summary": "The character is expressing feelings of jealousy and concern towards another character, possibly seeking forgiveness or reassurance.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "core_issue_identification",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I'm sorry I've been so crazy and jealous, and...",
+            "evidence_frame_time": 18.25,
+            "evidence_description": "The character is apologizing for their behavior, indicating a desire to address a core issue.",
+            "interpretation": "The character is seeking to resolve a significant problem in their relationship.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "It's just I like you a lot, so...",
+            "evidence_frame_time": 25.92,
+            "evidence_description": "The character is expressing their feelings towards the other person, indicating a strong emotional connection.",
+            "interpretation": "The character values the other person deeply and wants to communicate their feelings.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "contextual_reference",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I know.",
+            "evidence_frame_time": 28.24,
+            "evidence_description": "The character acknowledges the other person's feelings, showing understanding and empathy.",
+            "interpretation": "The character is trying to connect with the other person on an emotional level.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "responsive_pacing",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah?",
+            "evidence_frame_time": 29.32,
+            "evidence_description": "The character is pausing and asking a question, indicating a need for the other person's response.",
+            "interpretation": "The character is seeking confirmation or further discussion about their feelings.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "turn_taking",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah.",
+            "evidence_frame_time": 29.6,
+            "evidence_description": "The other person responds affirmatively, indicating a willingness to engage in the conversation.",
+            "interpretation": "The other person is receptive to the character's concerns and is willing to discuss them.",
+            "confidence": 0.8
+          }
+        ],
+        "unknowns": [
+          "The specific nature of the relationship between the characters.",
+          "The extent of the character's feelings of jealousy and concern.",
+          "The other person's response to the character's apology and feelings."
+        ]
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 30.11,
+      "frame_times": [
+        27.25,
+        29.86
+      ],
+      "analysis": {
+        "scene_summary": "A character expresses feelings of liking another character deeply, while the other character acknowledges the sentiment.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "core_issue_identification",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "It's just I like you a lot, so...",
+            "evidence_frame_time": 27.25,
+            "evidence_description": "A character expresses strong feelings of liking another character.",
+            "interpretation": "The speaker is expressing their affection openly.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I know.",
+            "evidence_frame_time": 28.24,
+            "evidence_description": "The other character acknowledges the speaker's feelings.",
+            "interpretation": "The other character is validating the speaker's feelings.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "responsive_pacing",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah?",
+            "evidence_frame_time": 29.32,
+            "evidence_description": "The other character responds with a question, showing engagement.",
+            "interpretation": "The other character is actively listening and seeking to understand the speaker's feelings.",
+            "confidence": 0.8
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "responsive_pacing",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah.",
+            "evidence_frame_time": 30.0,
+            "evidence_description": "The other character confirms their understanding.",
+            "interpretation": "The other character is affirming the speaker's feelings and the conversation's direction.",
+            "confidence": 0.8
+          }
+        ],
+        "unknowns": [
+          "The specific nature of the relationship between the characters.",
+          "The context in which these feelings are being expressed."
+        ]
+      }
+    }
+  ]
+}

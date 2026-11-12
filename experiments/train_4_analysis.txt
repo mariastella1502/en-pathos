@@ -1,0 +1,41 @@
+```json
+{
+  "scene_summary": "A woman is holding a red rose and talking to a man in a room with other people.",
+  "participants": [
+    {
+      "name": "Rachel",
+      "relationship": "female"
+    },
+    {
+      "name": "Ross",
+      "relationship": "male"
+    }
+  ],
+  "observable_cues": [
+    {
+      "description": "Rachel is holding a red rose and talking to Ross.",
+      "location": "room",
+      "time": "ongoing"
+    },
+    {
+      "description": "Other people are present in the room.",
+      "location": "room",
+      "time": "ongoing"
+    }
+  ],
+  "emotional_evolution": [
+    {
+      "description": "Rachel is expressing her pride and happiness for Ross's success.",
+      "time": "ongoing"
+    },
+    {
+      "description": "Ross is apologizing for his jealousy and expressing his love for Rachel.",
+      "time": "ongoing"
+    }
+  ],
+  "interpersonal_dynamics": "The interaction between Rachel and Ross is friendly and affectionate. They are discussing Ross's success and expressing their feelings towards each other.",
+  "possible_emotional_needs": ["pride", "happiness", "love", "apology"],
+  "empathic_interpretation": "Rachel and Ross are sharing their feelings and experiences with each other. They are expressing their pride and happiness for Ross's success and expressing their love and apology towards each other.",
+  "uncertainties": [
+    {
+      "description)": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

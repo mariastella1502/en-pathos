@@ -1,0 +1,398 @@
+{
+  "version": "2.0",
+  "description": "Candidate operational definitions; they require human verification and do not constitute established psychological truths.",
+  "gaps": {
+    "rigidity": {
+      "definition": "A response that fails to adapt to the content, pace, and needs of the conversation.",
+      "behaviors": {
+        "natural_pause": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "An audible pause before responding that allows room for emotional content; an incidental silence alone is insufficient."
+        },
+        "gentle_opening": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Begin a response by respectfully referring to the person’s actual experience or request, rather than using a stock phrase."
+        },
+        "conversational_reformulation": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Restate the other person’s most recent point in one’s own words while preserving its meaning without distorting it."
+        },
+        "adaptive_register": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Adapt vocabulary, formality, and tone to the interlocutor’s observable communication style without caricaturing or mimicking them."
+        },
+        "active_listening": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Demonstrate listening by responding to a relevant earlier detail or through clearly turn-related visible or audible cues."
+        },
+        "nonformulaic_acknowledgement": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Acknowledge the situation using specific language rather than a generic social formula."
+        },
+        "turn_taking": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Allow the other person to finish their turn and respond without interrupting; requires temporal evidence from at least two turns."
+        },
+        "appropriate_humor": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Use humor that fits the context without belittling the problem or the person; examine the reaction when available."
+        },
+        "exploratory_question": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Ask an open-ended question that explores the person’s experience or needs instead of imposing an answer."
+        },
+        "responsive_pacing": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Adjust the pace and length of a response in light of observed hesitation, silence, or requests."
+        }
+      },
+      "label_en": "Conversational flexibility"
+    },
+    "information_relevance": {
+      "definition": "A response that is rambling or fails to address the central issue.",
+      "behaviors": {
+        "core_issue_identification": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Name or summarize the main issue raised in the preceding turn without replacing it with a different topic."
+        },
+        "relevant_detail_selection": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Select a detail directly useful to the current request while omitting peripheral information."
+        },
+        "concise_response": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Provide the minimum information needed to be clear and useful, without demonstrable digressions."
+        },
+        "contextual_reference": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Refer back to a specific fact already established in the conversation that is relevant to the response."
+        },
+        "progressive_disclosure": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Provide information in manageable steps and elaborate only after a sign of interest or a question."
+        },
+        "avoid_unrequested_advice": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Refrain from giving unsolicited instructions when the other person is primarily sharing an emotion."
+        },
+        "priority_ordering": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Present the most urgent information or need first, using an explicit or inferable order of priority."
+        },
+        "single_focus_followup": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Ask one focused follow-up question about the unresolved issue instead of stacking unrelated questions."
+        },
+        "listener_knowledge_adaptation": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Adjust the amount of explanation to what the interlocutor has demonstrated they already know."
+        },
+        "avoid_repetition": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Avoid repeating information already received or provided unless clarification is requested."
+        }
+      },
+      "label_en": "Information relevance"
+    },
+    "harshness": {
+      "definition": "A response that is demeaning, accusatory, or disrespectful.",
+      "behaviors": {
+        "softened_wording": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Use less accusatory wording while keeping the substance of the criticism clear."
+        },
+        "nonaccusatory_language": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Describe facts and consequences without assigning blame, moral defects, or unproven intentions."
+        },
+        "respectful_correction": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Correct a specific error without humiliating the person who made it."
+        },
+        "emotion_acknowledgement": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Explicitly acknowledge an emotion expressed by the other person without claiming to know its cause."
+        },
+        "calm_delivery": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Maintain nonaggressive volume and tone during a potentially contentious exchange; audio evidence is required."
+        },
+        "face_saving": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Frame criticism in a way that preserves the interlocutor’s dignity and opportunity to respond."
+        },
+        "boundary_respect": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Respect an expressed refusal or boundary without insisting or applying pressure."
+        },
+        "nonjudgmental_question": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Ask for clarification without assuming the other person is irrational, guilty, or incompetent."
+        },
+        "gentle_disagreement": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Express disagreement respectfully, addressing the content rather than attacking the person."
+        },
+        "avoid_shaming": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Avoid ridicule, humiliating sarcasm, or publicly exposing someone’s vulnerability."
+        }
+      },
+      "label_en": "Gentleness and respect"
+    },
+    "negativity": {
+      "definition": "A response that unnecessarily amplifies pessimism or helplessness.",
+      "behaviors": {
+        "realistic_reassurance": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Offer encouragement grounded in observable facts without promising a certain outcome."
+        },
+        "avoid_catastrophizing": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Avoid turning a limited problem into a prediction of general failure."
+        },
+        "balanced_framing": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Present real difficulties alongside concrete possibilities without minimizing the difficulties."
+        },
+        "acknowledge_difficulty": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Explicitly recognize that the described situation is difficult."
+        },
+        "constructive_next_step": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Suggest a small, realistic, relevant next step after acknowledging the problem."
+        },
+        "uncertainty_tolerance": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Accept that the outcome is unknown without filling uncertainty with negative predictions."
+        },
+        "nonminimizing_hope": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Express hope without denying existing pain, obstacles, or risks."
+        },
+        "strength_recognition": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Refer to a strength, ability, or achievement of the interlocutor that is supported by context."
+        },
+        "neutral_fact_framing": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Describe unfavorable facts in neutral terms, avoiding unjustified catastrophic adjectives."
+        },
+        "emotional_containment": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Receive an intense emotional expression without amplifying or dismissing it."
+        }
+      },
+      "label_en": "Balance and realistic hope"
+    },
+    "genericity": {
+      "definition": "An interchangeable response lacking details specific to the situation.",
+      "behaviors": {
+        "specific_fact_reference": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Mention a distinguishing fact about the current situation rather than something that could apply to anyone."
+        },
+        "individual_need_identification": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Identify a need expressed by this particular person without attributing stereotypical needs to them."
+        },
+        "targeted_question": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Ask a question that depends on a specific detail that has just emerged."
+        },
+        "contextual_suggestion": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Offer a suggestion tied to the described circumstances and constraints rather than a universal recommendation."
+        },
+        "prior_turn_continuity": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Explicitly connect the response to a relevant earlier conversational turn."
+        },
+        "personalized_reflection": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Reflect emotional content using language that includes details specific to the situation."
+        },
+        "concrete_example": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Use a concrete example relevant to the case and distinguish it from a generalization."
+        },
+        "constraint_awareness": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Account for an explicit constraint (time, resources, preferences, boundaries) in the response."
+        },
+        "situational_summary": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Briefly summarize the situation, problem, and goal using verifiable references."
+        },
+        "actionable_followup": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Propose a concrete, feasible follow-up tailored to the specific situation."
+        }
+      },
+      "label_en": "Contextual specificity"
+    },
+    "overconfidence": {
+      "definition": "A response that is overly certain or intrusive relative to the available evidence.",
+      "behaviors": {
+        "uncertainty_expression": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Explicitly express uncertainty when relevant facts or other people’s intentions are unknown."
+        },
+        "avoid_mindreading": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Do not present what another person thinks, feels, or intends as fact without direct evidence."
+        },
+        "permission_before_advice": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Ask whether the interlocutor wants advice before giving it when advice has not been requested."
+        },
+        "respect_autonomy": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Explicitly leave the final choice to the other person without applying pressure."
+        },
+        "tentative_hypothesis": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Offer an interpretation as a testable hypothesis rather than a diagnosis or certainty."
+        },
+        "admit_limits": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Acknowledge missing knowledge or a limitation in one’s own perspective."
+        },
+        "ask_for_correction": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Invite the other person to correct one’s interpretation of the situation."
+        },
+        "avoid_paternalism": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Avoid deciding on the other person’s behalf or treating them as unable to choose."
+        },
+        "calibrated_claim": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Make claims with a level of certainty proportional to the available evidence."
+        },
+        "perspective_check": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Ask whether the perspective attributed to the other person matches what they mean."
+        }
+      },
+      "label_en": "Epistemic humility and autonomy"
+    },
+    "automatic_agreement": {
+      "definition": "Uncritical endorsement of another person’s statements or choices.",
+      "behaviors": {
+        "respectful_dissent": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Express explicit, respectful disagreement with a specific claim."
+        },
+        "reasoned_counterpoint": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Provide a concrete reason or piece of evidence supporting the disagreement."
+        },
+        "alternative_perspective": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Present another plausible interpretation without automatically invalidating the initial one."
+        },
+        "behavior_not_identity_critique": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Criticize a specific behavior or idea without making judgments about the person’s identity."
+        },
+        "constructive_alternative": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Offer a feasible alternative after challenging a proposal."
+        },
+        "clarify_assumptions": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Ask which assumption supports a conclusion before accepting it."
+        },
+        "identify_tradeoff": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Make the trade-off between the benefits and costs of a choice explicit."
+        },
+        "truthful_pushback": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Correct a false or unsupported statement even when agreement would be easier."
+        },
+        "validate_without_endorsing": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Acknowledge the other person’s emotion without automatically endorsing their factual conclusion."
+        },
+        "nonimposing_recommendation": {
+          "evidence_rule": "Require an exact transcript quotation or relevant observable frame/audio evidence; do not infer intentions or outcomes that cannot be observed.",
+          "counterexample": "The mere presence of an emotion or an isolated word does not establish this behavior.",
+          "definition_en": "Suggest a course of action without imposing it, even when expressing a contrary opinion."
+        }
+      },
+      "label_en": "Constructive disagreement"
+    }
+  }
+}
