@@ -3,7 +3,7 @@
 venv/
 
 # Dataset
-data/raw/
+data
 
 # Python
 __pycache__/
