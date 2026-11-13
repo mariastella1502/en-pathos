@@ -1,0 +1,99 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_251.mp4",
+  "mode": "guided",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": "2.0",
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A woman is applying makeup while a man assists her, focusing on the use of a brush.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation between two individuals, one of whom is demonstrating or explaining the use of a brush, possibly for applying makeup or a similar activity. The other person listens attentively and responds affirmatively.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 22.2,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 21.95,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_002/frame_01.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a person applying makeup to another person's face, likely in a casual, intimate setting. The person applying makeup is instructing the other person on how to apply the product correctly.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    }
+  ]
+}

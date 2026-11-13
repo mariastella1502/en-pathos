@@ -1,0 +1,688 @@
+{
+  "text": " Because we want our apartment back. What? Ace is high. Jack, queen, king, ace. No, ace is low. Ace, two, three, four. I don't know. Ooh, ooh. Look at... Ah. All right, cut. Let's pick again, pick again. All right, give me, give me, give me. Come on, apartment. Come on, apartment. Ah! I know queen is high. Not as high as... It worked. King. Ah, baby! Ah! We pick again, we pick again. Why? I don't know. Tickets, please. Ugh. That's courtside, baby. Seriously, good game, though. Good game. What are they so mad about? They got the apartment back. No, they didn't. No, they didn't.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.74,
+      "text": " Because we want our apartment back.",
+      "tokens": [
+        50365,
+        1436,
+        321,
+        528,
+        527,
+        9587,
+        646,
+        13,
+        50452
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.86,
+      "end": 2.2600000000000002,
+      "text": " What?",
+      "tokens": [
+        50458,
+        708,
+        30,
+        50478
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 2.6,
+      "end": 3.5,
+      "text": " Ace is high.",
+      "tokens": [
+        50495,
+        24900,
+        307,
+        1090,
+        13,
+        50540
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.64,
+      "end": 4.94,
+      "text": " Jack, queen, king, ace.",
+      "tokens": [
+        50547,
+        4718,
+        11,
+        12206,
+        11,
+        4867,
+        11,
+        17117,
+        13,
+        50612
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 5.04,
+      "end": 6.36,
+      "text": " No, ace is low.",
+      "tokens": [
+        50617,
+        883,
+        11,
+        17117,
+        307,
+        2295,
+        13,
+        50683
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 6.46,
+      "end": 7.66,
+      "text": " Ace, two, three, four.",
+      "tokens": [
+        50688,
+        24900,
+        11,
+        732,
+        11,
+        1045,
+        11,
+        1451,
+        13,
+        50748
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 7.88,
+      "end": 8.5,
+      "text": " I don't know.",
+      "tokens": [
+        50759,
+        286,
+        500,
+        380,
+        458,
+        13,
+        50790
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 10.64,
+      "end": 11.66,
+      "text": " Ooh, ooh.",
+      "tokens": [
+        50897,
+        7951,
+        11,
+        17024,
+        13,
+        50948
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 12.780000000000001,
+      "end": 13.620000000000001,
+      "text": " Look at...",
+      "tokens": [
+        51004,
+        2053,
+        412,
+        485,
+        51046
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 13.620000000000001,
+      "end": 13.84,
+      "text": " Ah.",
+      "tokens": [
+        51046,
+        2438,
+        13,
+        51057
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 14.74,
+      "end": 15.4,
+      "text": " All right, cut.",
+      "tokens": [
+        51102,
+        1057,
+        558,
+        11,
+        1723,
+        13,
+        51135
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 15.6,
+      "end": 16.52,
+      "text": " Let's pick again, pick again.",
+      "tokens": [
+        51145,
+        961,
+        311,
+        1888,
+        797,
+        11,
+        1888,
+        797,
+        13,
+        51191
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 16.54,
+      "end": 17.46,
+      "text": " All right, give me, give me, give me.",
+      "tokens": [
+        51192,
+        1057,
+        558,
+        11,
+        976,
+        385,
+        11,
+        976,
+        385,
+        11,
+        976,
+        385,
+        13,
+        51238
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 17.62,
+      "end": 18.52,
+      "text": " Come on, apartment.",
+      "tokens": [
+        51246,
+        2492,
+        322,
+        11,
+        9587,
+        13,
+        51291
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 18.86,
+      "end": 19.6,
+      "text": " Come on, apartment.",
+      "tokens": [
+        51308,
+        2492,
+        322,
+        11,
+        9587,
+        13,
+        51345
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 15,
+      "seek": 0,
+      "start": 23.28,
+      "end": 23.68,
+      "text": " Ah!",
+      "tokens": [
+        51529,
+        2438,
+        0,
+        51549
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 16,
+      "seek": 0,
+      "start": 23.68,
+      "end": 25.16,
+      "text": " I know queen is high.",
+      "tokens": [
+        51549,
+        286,
+        458,
+        12206,
+        307,
+        1090,
+        13,
+        51623
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 17,
+      "seek": 0,
+      "start": 25.740000000000002,
+      "end": 27.68,
+      "text": " Not as high as...",
+      "tokens": [
+        51652,
+        1726,
+        382,
+        1090,
+        382,
+        485,
+        51749
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 18,
+      "seek": 0,
+      "start": 27.68,
+      "end": 29.34,
+      "text": " It worked.",
+      "tokens": [
+        51749,
+        467,
+        2732,
+        13,
+        51832
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3655215399605887,
+      "compression_ratio": 1.6919191919191918,
+      "no_speech_prob": 2.4071951029713823e-11
+    },
+    {
+      "id": 19,
+      "seek": 2934,
+      "start": 29.34,
+      "end": 30.04,
+      "text": " King.",
+      "tokens": [
+        50365,
+        3819,
+        13,
+        50400
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 20,
+      "seek": 2934,
+      "start": 30.16,
+      "end": 30.6,
+      "text": " Ah, baby!",
+      "tokens": [
+        50406,
+        2438,
+        11,
+        3186,
+        0,
+        50428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 21,
+      "seek": 2934,
+      "start": 30.96,
+      "end": 31.46,
+      "text": " Ah!",
+      "tokens": [
+        50446,
+        2438,
+        0,
+        50471
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 22,
+      "seek": 2934,
+      "start": 32.68,
+      "end": 34.46,
+      "text": " We pick again, we pick again.",
+      "tokens": [
+        50532,
+        492,
+        1888,
+        797,
+        11,
+        321,
+        1888,
+        797,
+        13,
+        50621
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 23,
+      "seek": 2934,
+      "start": 34.56,
+      "end": 34.94,
+      "text": " Why?",
+      "tokens": [
+        50626,
+        1545,
+        30,
+        50645
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 24,
+      "seek": 2934,
+      "start": 35.36,
+      "end": 35.96,
+      "text": " I don't know.",
+      "tokens": [
+        50666,
+        286,
+        500,
+        380,
+        458,
+        13,
+        50696
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 25,
+      "seek": 2934,
+      "start": 36.16,
+      "end": 36.94,
+      "text": " Tickets, please.",
+      "tokens": [
+        50706,
+        314,
+        38748,
+        11,
+        1767,
+        13,
+        50745
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 26,
+      "seek": 2934,
+      "start": 37.78,
+      "end": 38.18,
+      "text": " Ugh.",
+      "tokens": [
+        50787,
+        16506,
+        13,
+        50807
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 27,
+      "seek": 2934,
+      "start": 39.66,
+      "end": 40.9,
+      "text": " That's courtside, baby.",
+      "tokens": [
+        50881,
+        663,
+        311,
+        14141,
+        482,
+        11,
+        3186,
+        13,
+        50943
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 28,
+      "seek": 2934,
+      "start": 42.72,
+      "end": 44.4,
+      "text": " Seriously, good game, though.",
+      "tokens": [
+        51034,
+        14063,
+        11,
+        665,
+        1216,
+        11,
+        1673,
+        13,
+        51118
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 29,
+      "seek": 2934,
+      "start": 44.46,
+      "end": 44.96,
+      "text": " Good game.",
+      "tokens": [
+        51121,
+        2205,
+        1216,
+        13,
+        51146
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 30,
+      "seek": 2934,
+      "start": 46.84,
+      "end": 48.64,
+      "text": " What are they so mad about?",
+      "tokens": [
+        51240,
+        708,
+        366,
+        436,
+        370,
+        5244,
+        466,
+        30,
+        51330
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 31,
+      "seek": 2934,
+      "start": 48.7,
+      "end": 49.96,
+      "text": " They got the apartment back.",
+      "tokens": [
+        51333,
+        814,
+        658,
+        264,
+        9587,
+        646,
+        13,
+        51396
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 32,
+      "seek": 2934,
+      "start": 51.44,
+      "end": 52.74,
+      "text": " No, they didn't.",
+      "tokens": [
+        51470,
+        883,
+        11,
+        436,
+        994,
+        380,
+        13,
+        51535
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    },
+    {
+      "id": 33,
+      "seek": 2934,
+      "start": 53.08,
+      "end": 54.1,
+      "text": " No, they didn't.",
+      "tokens": [
+        51552,
+        883,
+        11,
+        436,
+        994,
+        380,
+        13,
+        51603
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4238855676743591,
+      "compression_ratio": 1.4642857142857142,
+      "no_speech_prob": 3.477162134613021e-12
+    }
+  ],
+  "language": "en"
+}

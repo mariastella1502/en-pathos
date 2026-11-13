@@ -1,0 +1,293 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_1009.mp4",
+  "mode": "guided",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": "2.0",
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a group of people in a living room, with one individual expressing regret and another agreeing with the statement. The setting includes a couch, a coffee table, and various household items, suggesting a casual, domestic environment.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a casual gathering in a living room, where one character is expressing uncertainty about a plan, while another character questions the plan's existence. The setting includes a couch, a coffee table, and a relaxed atmosphere.",
+        "observations": [],
+        "unknowns": [
+          {
+            "gap": "harshness",
+            "behavior": "softened_wording",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": null,
+            "evidence_frame_time": [
+              16.88
+            ],
+            "evidence_description": "The speaker is using a milder tone to express uncertainty.",
+            "interpretation": "The speaker is trying to avoid harshness.",
+            "confidence": 0.7,
+            "interlocutor_response": null
+          }
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 22.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 25.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_002/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 29.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_002/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The conversation revolves around a pizza order, with one person expressing dissatisfaction and another correcting the order details. The dialogue suggests a mix-up in the pizza's crust type and cheese amount.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 39.0,
+      "frames": [
+        {
+          "timestamp_seconds": 27.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_003/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 31.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_003/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 34.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_003/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 38.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_003/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation in a cozy, lived-in kitchen setting. Two women are engaged in a discussion, with one of them gesturing expressively. The setting includes kitchen furniture, a refrigerator, and a dining area with a couch and a coffee table. The dialogue suggests a casual, possibly humorous or investigative tone.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Was he wearing a stunning blue suit?",
+            "evidence_frame_time": 38.75,
+            "evidence_description": "The speaker is asking about the attire of someone described as a small Mediterranean guy with curiously intelligent good looks.",
+            "interpretation": "The speaker is seeking specific details about the appearance of the person being discussed.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_003/frame_03.jpg",
+            "screenshot_status": "model_observed_frame",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_1_duplicate"
+        ]
+      }
+    },
+    {
+      "window_id": 4,
+      "start": 36.0,
+      "end": 48.0,
+      "frames": [
+        {
+          "timestamp_seconds": 36.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_004/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 40.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_004/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 43.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_004/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 47.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_004/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The group is discussing someone's appearance, specifically mentioning a blue suit and a power tie, which is met with disbelief. The conversation then shifts to a pizza delivery, with a reference to George Stephanopoulos, a well-known news anchor, and a question about George Snuffleupagus, a character from Sesame Street.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time",
+          "observation_5_invalid_frame_time",
+          "observation_6_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 5,
+      "start": 45.0,
+      "end": 57.0,
+      "frames": [
+        {
+          "timestamp_seconds": 45.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_005/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 49.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_005/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 52.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_005/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 56.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_005/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a moment of curiosity and playful interaction between two characters. One character is expressing interest in a pizza delivery, while the other character seems to be investigating or spying on someone, possibly out of curiosity or concern.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_frame_time_not_supplied",
+          "observation_1_frame_time_not_supplied"
+        ]
+      }
+    },
+    {
+      "window_id": 6,
+      "start": 54.0,
+      "end": 58.11,
+      "frames": [
+        {
+          "timestamp_seconds": 54.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_006/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 57.86,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_006/frame_01.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character is in a kitchen, seemingly engaged in a conversation or monologue. The character's body language suggests a mix of curiosity and concern.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, I want to see. Let me see. Let me see.",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is expressing a desire to see something, indicating a need for information or clarification.",
+            "interpretation": "The character is seeking more details or context about the situation.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Hello? Who are we spying on?",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is asking who they are spying on, indicating a need for information or clarification.",
+            "interpretation": "The character is seeking to understand the context of the situation.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    }
+  ]
+}

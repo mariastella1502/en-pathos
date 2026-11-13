@@ -1,0 +1,101 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_251.mp4",
+  "mode": "open",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": null,
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A woman is applying makeup while a man assists her, switching between using her right hand and a brush.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time",
+          "observation_5_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A man and a woman are engaged in a conversation, possibly about a product or task. The man appears to be explaining or demonstrating something, while the woman listens attentively and responds.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 22.2,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 21.95,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_251/window_002/frame_01.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A man is applying makeup to a woman's face, demonstrating the technique.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_gap_or_behavior",
+          "observation_1_invalid_gap_or_behavior"
+        ]
+      }
+    }
+  ]
+}

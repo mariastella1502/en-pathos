@@ -1,0 +1,542 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_109.mp4",
+  "mode": "guided",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": "2.0",
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A woman in a red top interacts with a man in a suit at a bar, while another woman in a black dress sits at a table. The woman in red appears to be offering money to the man in the suit, who declines. The woman in the black dress looks on.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time",
+          "observation_5_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a social gathering, possibly a bar or club, with people engaging in conversation. The dialogue suggests a discussion about a recent experience, possibly a performance or event, and a concern about a missed call.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 22.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 25.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_002/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 29.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_002/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a group of people in a bar setting, with one person expressing frustration about not receiving a call from Joshua and feeling worse due to Ross's happiness in Vermont. The setting includes a bar with patrons, a stage area, and a woman in a white outfit performing.",
+        "observations": [],
+        "unknowns": [
+          {
+            "gap": "harshness",
+            "behavior": "emotion_acknowledgement",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": null,
+            "evidence_frame_time": [
+              26.98
+            ],
+            "evidence_description": "The speaker acknowledges the additional factors that make the situation worse.",
+            "interpretation": "The speaker is expressing their frustration and seeking to understand the additional factors that exacerbate their feelings.",
+            "confidence": 0.8,
+            "interlocutor_response": null
+          }
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 39.0,
+      "frames": [
+        {
+          "timestamp_seconds": 27.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_003/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 31.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_003/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 34.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_003/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 38.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_003/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene takes place in a dimly lit bar, with patrons seated at tables, engaging in conversation and enjoying drinks. The atmosphere is relaxed, with a mix of casual and slightly more formal attire. The focus is on a woman in a red dress, who appears to be interacting with another woman seated at a table. The setting suggests a social gathering, possibly a party or a casual night out.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Remember, virgin for me, please.",
+            "evidence_frame_time": null,
+            "evidence_description": "A woman in a red dress is speaking, emphasizing the importance of not consuming alcohol.",
+            "interpretation": "The woman in the red dress is reminding someone not to drink alcohol, possibly due to a specific reason or preference.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, and don't let me leave without getting the name of that carpet guy.",
+            "evidence_frame_time": null,
+            "evidence_description": "A woman in a red dress is speaking, mentioning the need to get the name of a carpet guy.",
+            "interpretation": "The woman in the red dress is asking someone to remember to get the name of a carpet guy, possibly for a future purchase or service.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 4,
+      "start": 36.0,
+      "end": 48.0,
+      "frames": [
+        {
+          "timestamp_seconds": 36.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_004/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 40.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_004/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 43.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_004/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 47.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_004/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a social gathering, possibly a bar or club, with people engaging in casual conversation. The dialogue suggests a playful interaction, possibly involving a test or a joke, as indicated by the mention of a 'test' and the phrase 'That was a test.'",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Remember, virgin for me, please.",
+            "evidence_frame_time": null,
+            "evidence_description": "A person is asking someone to be a virgin for them, possibly as part of a joke or test.",
+            "interpretation": "The speaker is engaging in a playful or teasing interaction, possibly testing the other person's reaction.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, and don't let me leave without getting the name of that carpet guy.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is asking someone to get the name of a carpet guy before leaving.",
+            "interpretation": "The speaker is making a casual request, possibly as part of a joke or test.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Come on!",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is encouraging someone to do something, possibly as part of a test or joke.",
+            "interpretation": "The speaker is engaging in a playful or teasing interaction, possibly testing the other person's reaction.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "You know what?",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is asking for a response or reaction, possibly as part of a test or joke.",
+            "interpretation": "The speaker is engaging in a playful or teasing interaction, possibly testing the other person's reaction.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I'm just going to go home and call Kathy.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is planning to call someone named Kathy after leaving.",
+            "interpretation": "The speaker is making a casual statement, possibly as part of a test or joke.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Think it'll help?",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is asking if something will be helpful, possibly as part of a test or joke.",
+            "interpretation": "The speaker is engaging in a playful or teasing interaction, possibly testing the other person's reaction.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "No!",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is responding negatively to a question or statement, possibly as part of a test or joke.",
+            "interpretation": "The speaker is engaging in a playful or teasing interaction, possibly testing the other person's reaction.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "That was a test.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is confirming that something was a test, possibly as part of a joke or interaction.",
+            "interpretation": "The speaker is engaging in a playful or teasing interaction, possibly testing the other person's reaction.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 5,
+      "start": 45.0,
+      "end": 57.0,
+      "frames": [
+        {
+          "timestamp_seconds": 45.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_005/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 49.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_005/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 52.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_005/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 56.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_005/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The conversation revolves around a test scenario, where the speaker is trying to gauge the listener's reaction to a hypothetical future scenario involving alcohol and phone calls. The listener consistently denies the test, but the speaker persists, leading to a discussion about the consequences of getting drunk.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "Think it'll help?",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker asks if the test will help, but the listener's response is not helpful.",
+            "interpretation": "The speaker is trying to gauge the listener's reaction to a hypothetical future scenario but the listener is not providing relevant information.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "No!",
+            "evidence_frame_time": null,
+            "evidence_description": "The listener consistently denies the test.",
+            "interpretation": "The listener is not providing any relevant information to the test scenario.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "That was a test.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker confirms that the previous statement was a test.",
+            "interpretation": "The speaker is trying to gauge the listener's reaction to a hypothetical future scenario but the listener is not providing relevant information.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "You know, in a couple hours I'm going to get really drunk and I'm going to want to call Kathy",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker discusses a future scenario involving alcohol and phone calls.",
+            "interpretation": "The speaker is trying to gauge the listener's reaction to a hypothetical future scenario but the listener is not providing relevant information.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "and you guys are going to have to stop me.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker discusses a future scenario involving alcohol and phone calls.",
+            "interpretation": "The speaker is trying to gauge the listener's reaction to a hypothetical future scenario but the listener is not providing relevant information.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "And then after that I'm going to be so drunk I'm going to want to call Jeff.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker discusses a future scenario involving alcohol and phone calls.",
+            "interpretation": "The speaker is trying to gauge the listener's reaction to a hypothetical future scenario but the listener is not providing relevant information.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_3_duplicate",
+          "observation_4_duplicate",
+          "observation_5_duplicate"
+        ]
+      }
+    },
+    {
+      "window_id": 6,
+      "start": 54.0,
+      "end": 63.63,
+      "frames": [
+        {
+          "timestamp_seconds": 54.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_006/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 57.29,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_006/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 60.34,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_006/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 63.38,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_006/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a group of people in a dimly lit bar, engaging in a conversation about their intentions to drink and call different people after getting drunk. The dialogue suggests a playful and somewhat irresponsible attitude towards alcohol consumption and social interactions.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_quote_not_in_transcript",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 7,
+      "start": 63.0,
+      "end": 63.63,
+      "frames": [
+        {
+          "timestamp_seconds": 63.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_007/frame_00.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A woman is seated at a bar, surrounded by dim lighting and other patrons. She appears to be engaged in a conversation, possibly about someone needing a lap dance.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "core_issue_identification",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "I think somebody needs another lap dance.",
+            "evidence_frame_time": null,
+            "evidence_description": "A statement suggesting someone needs a lap dance.",
+            "interpretation": "The speaker is making a statement about someone needing a lap dance, which is not a helpful or relevant observation in the context of the scene.",
+            "confidence": 0.6,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Name or summarize the main issue raised in the preceding turn without replacing it with a different topic.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    }
+  ]
+}

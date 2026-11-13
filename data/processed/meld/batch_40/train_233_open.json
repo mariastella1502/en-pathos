@@ -1,0 +1,77 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_233.mp4",
+  "mode": "open",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": null,
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_233/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_233/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_233/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_233/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A character dressed as a holiday armadillo enters a room, greeting someone inside. The armadillo is surprised to learn that Santa is missing.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 13.66,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_233/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.41,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_233/window_001/frame_01.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A character in an armadillo costume is interacting with another character in a festive setting, possibly during the holiday season.",
+        "observations": [],
+        "unknowns": [
+          {
+            "gap": "information_relevance",
+            "behavior": "the reason for the armadillo character's presence",
+            "polarity": "ambiguous",
+            "modality": "verbal",
+            "evidence_quote": null,
+            "evidence_frame_time": "9.25",
+            "evidence_description": "The first character is speaking but the reason for the armadillo character's presence is not clear from the given information.",
+            "interpretation": "The first character may be explaining the armadillo character's role or purpose, but the exact reason is not provided.",
+            "confidence": 0.5
+          }
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time"
+        ]
+      }
+    }
+  ]
+}

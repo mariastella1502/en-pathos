@@ -1,0 +1,139 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_43.mp4",
+  "mode": "open",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": null,
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A conversation between two characters, one entering a room and the other seated, discussing work and a recent delivery.",
+        "observations": [],
+        "unknowns": [
+          "The exact nature of the work and the box of stuff is not clear from the dialogue.",
+          "The relationship between the characters and the context of the delivery is not specified."
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 20.79,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.01,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.77,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.54,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "Rachel is dealing with a box of Ross's belongings, expressing a mix of resignation and indifference.",
+        "observations": [],
+        "unknowns": [
+          {
+            "gap": "information_relevance",
+            "behavior": "reason_for_throwing_out",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": "13.01",
+            "evidence_description": "Rachel is throwing out the box, but there's no clear indication of the reason.",
+            "interpretation": "Rachel might be throwing out the box because it's empty, or she might be dealing with the contents in a way that doesn't require her to keep them.",
+            "confidence": 0.6
+          }
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 20.79,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_002/frame_00.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A woman is in a kitchen, seemingly engaged in a conversation or reacting to something off-screen.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "responding_to_question",
+            "polarity": "ambiguous",
+            "modality": "verbal",
+            "evidence_quote": "Something wrong?",
+            "evidence_frame_time": null,
+            "evidence_description": "A question is being asked, but the woman's response is not clear.",
+            "interpretation": "The woman might be responding to a question about something being wrong, but her response is not fully clear.",
+            "confidence": 0.5,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "nodding",
+            "polarity": "ambiguous",
+            "modality": "visual",
+            "evidence_quote": null,
+            "evidence_frame_time": 18.25,
+            "evidence_description": "The woman is nodding her head.",
+            "interpretation": "The woman might be acknowledging something, but the context is unclear.",
+            "confidence": 0.5,
+            "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_43/window_002/frame_00.jpg",
+            "screenshot_status": "model_observed_frame"
+          }
+        ],
+        "unknowns": [
+          "The exact nature of the conversation or the reason for the question.",
+          "The woman's full response to the question.",
+          "The context of the woman's nodding and the reason for it."
+        ],
+        "validation_errors": [
+          "observation_2_frame_time_not_supplied",
+          "observation_3_frame_time_not_supplied"
+        ]
+      }
+    }
+  ]
+}

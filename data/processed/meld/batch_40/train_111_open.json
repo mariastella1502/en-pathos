@@ -1,0 +1,350 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_111.mp4",
+  "mode": "open",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": null,
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A man in a basketball jersey and beanie is talking to another man in a suit, possibly about the other's sexual activity.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A man in a suit is talking about having sex, while another man in a sports jersey listens and responds.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 22.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 25.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_002/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 29.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_002/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character is discussing a past incident, expressing regret and seeking reassurance from another character.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 39.0,
+      "frames": [
+        {
+          "timestamp_seconds": 27.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_003/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 31.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_003/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 34.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_003/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 38.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_003/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character in the New York Knicks jersey is discussing a past incident with another character, who is dressed in a suit. The conversation seems to be about a past event that occurred to the character in the jersey, and the other character is offering reassurance.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time",
+          "observation_5_invalid_frame_time",
+          "observation_6_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 4,
+      "start": 36.0,
+      "end": 48.0,
+      "frames": [
+        {
+          "timestamp_seconds": 36.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_004/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 40.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_004/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 43.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_004/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 47.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_004/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A character in a New York Knicks jersey is interacting with another character in a formal suit. The character in the jersey appears to be making a statement or reacting to something, while the other character seems to be responding or reacting as well.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 5,
+      "start": 45.0,
+      "end": 57.0,
+      "frames": [
+        {
+          "timestamp_seconds": 45.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_005/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 49.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_005/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 52.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_005/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 56.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_005/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character in the video is expressing frustration and disbelief, possibly about a video game, specifically PlayStation.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 6,
+      "start": 54.0,
+      "end": 66.0,
+      "frames": [
+        {
+          "timestamp_seconds": 54.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_006/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 58.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_006/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 61.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_006/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 65.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_006/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A man in a New York Knicks jersey is in a kitchen, expressing frustration or disbelief about the PlayStation, while another man in a suit sits in a chair, seemingly unbothered.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 7,
+      "start": 63.0,
+      "end": 75.0,
+      "frames": [
+        {
+          "timestamp_seconds": 63.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_007/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 67.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_007/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 70.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_007/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 74.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_007/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character in the suit is reacting to someone's comment about their appearance, expressing disbelief and asking for clarification.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 8,
+      "start": 72.0,
+      "end": 84.0,
+      "frames": [
+        {
+          "timestamp_seconds": 72.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_008/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 76.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_008/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 79.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_008/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 83.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_008/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A man in a suit and tie is being scolded by another man in a basketball jersey. The suited man is being told to change into something more appropriate and keep his underwear.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 9,
+      "start": 81.0,
+      "end": 85.46,
+      "frames": [
+        {
+          "timestamp_seconds": 81.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_009/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 85.21,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_009/frame_01.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character in a suit is expressing frustration or exasperation in a domestic setting, possibly a kitchen, as he gestures and speaks about his underwear and self-perception.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "requesting_underwear",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "And please, oh please, keep my underwear.",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is asking someone to keep his underwear, possibly indicating a need for privacy or a specific request.",
+            "interpretation": "The character is seeking assistance or permission regarding his personal items, which might be a sign of vulnerability or a request for help.",
+            "confidence": 0.8,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_quote_not_in_transcript"
+        ]
+      }
+    }
+  ]
+}

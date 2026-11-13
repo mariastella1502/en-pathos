@@ -1,0 +1,307 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_241.mp4",
+  "mode": "guided",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": "2.0",
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character is discussing attending a party with Mike's sister, who has invited them. The speaker reassures the other person that Mike is okay with seeing them, but the speaker must leave to maintain the pretense of being okay with the situation.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation about someone's emotional state and appearance in relation to a romantic interest. The speaker discusses the need to look good to make the other person feel loved, and acknowledges not having considered this aspect before.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "And you're gonna want him to eat his heart out, so you're gonna have to look fabulous.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker discusses the need to look good to make the other person feel loved.",
+            "interpretation": "The speaker is providing advice about appearance in the context of a romantic interest.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I didn't even think about that.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker acknowledges not having considered the need to look good before.",
+            "interpretation": "The speaker is reflecting on their previous lack of consideration for appearance.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 22.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 25.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_002/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 29.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_002/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a casual conversation among friends, with one character suggesting a shopping trip for another, possibly to find an outfit for a special occasion.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "And you're gonna want him to eat his heart out, so you're gonna have to look fabulous.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker emphasizes the importance of looking good for someone, likely Charlie, in a romantic context.",
+            "interpretation": "The speaker is advising the other person on how to dress for a special occasion.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I didn't even think about that.",
+            "evidence_frame_time": null,
+            "evidence_description": "The interlocutor expresses surprise or realization about the previous statement.",
+            "interpretation": "The interlocutor is acknowledging the previous advice and considering it.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Ah, sexual politics!",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker comments on the topic of sexual politics, possibly in a light-hearted or critical manner.",
+            "interpretation": "The speaker is discussing the topic of sexual politics in the context of the conversation.",
+            "confidence": 0.6,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Hey, Phoebe, I'm taking Charlie shopping. Why don't you come, and I'll help you find something.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker suggests taking Charlie shopping and invites Phoebe to join, offering to help her find something.",
+            "interpretation": "The speaker is offering Phoebe a shopping trip and assistance in finding an outfit.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Okay, that'd be great.",
+            "evidence_frame_time": null,
+            "evidence_description": "Phoebe agrees to the shopping trip suggestion.",
+            "interpretation": "Phoebe is accepting the speaker's offer to go shopping.",
+            "confidence": 0.9,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 39.0,
+      "frames": [
+        {
+          "timestamp_seconds": 27.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_003/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 31.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_003/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 34.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_003/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 38.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_003/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation between two individuals, one inviting the other to join them for shopping, with a playful and teasing comment about trying on lingerie together.",
+        "observations": [],
+        "unknowns": [
+          "The specific relationship between the two individuals and their intentions.",
+          "The context of the shopping trip and the type of lingerie being discussed."
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 4,
+      "start": 36.0,
+      "end": 43.37,
+      "frames": [
+        {
+          "timestamp_seconds": 36.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_004/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 39.69,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_004/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 43.12,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_241/window_004/frame_02.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation between two individuals, one of whom is expressing frustration and the other responding defensively.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, isn't that nice? The three of you trying on slutty lingerie together.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is making a comment about three people trying on lingerie, which is not directly related to the current conversation.",
+            "interpretation": "The speaker is introducing a new topic unrelated to the ongoing discussion.",
+            "confidence": 0.6,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Why would you ruin it? Who was I hurting?",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is asking why someone would ruin the situation and expressing concern about who might be affected.",
+            "interpretation": "The speaker is seeking clarification and expressing concern.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    }
+  ]
+}

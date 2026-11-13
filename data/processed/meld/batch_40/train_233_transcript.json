@@ -1,0 +1,101 @@
+{
+  "text": " I'm the holiday armadillo! I'm a friend of Santa's, and he sent me here to wish you... What happened to Santa, holiday armadillo?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " I'm the holiday armadillo!",
+      "tokens": [
+        50365,
+        286,
+        478,
+        264,
+        9960,
+        3726,
+        345,
+        15831,
+        0,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23812584443525833,
+      "compression_ratio": 1.2403846153846154,
+      "no_speech_prob": 9.618894222795937e-13
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.0,
+      "end": 7.0,
+      "text": " I'm a friend of Santa's,",
+      "tokens": [
+        50615,
+        286,
+        478,
+        257,
+        1277,
+        295,
+        9933,
+        311,
+        11,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23812584443525833,
+      "compression_ratio": 1.2403846153846154,
+      "no_speech_prob": 9.618894222795937e-13
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.0,
+      "end": 10.0,
+      "text": " and he sent me here to wish you...",
+      "tokens": [
+        50715,
+        293,
+        415,
+        2279,
+        385,
+        510,
+        281,
+        3172,
+        291,
+        485,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23812584443525833,
+      "compression_ratio": 1.2403846153846154,
+      "no_speech_prob": 9.618894222795937e-13
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.0,
+      "end": 13.0,
+      "text": " What happened to Santa, holiday armadillo?",
+      "tokens": [
+        50865,
+        708,
+        2011,
+        281,
+        9933,
+        11,
+        9960,
+        3726,
+        345,
+        15831,
+        30,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23812584443525833,
+      "compression_ratio": 1.2403846153846154,
+      "no_speech_prob": 9.618894222795937e-13
+    }
+  ],
+  "language": "en"
+}

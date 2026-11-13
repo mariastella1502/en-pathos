@@ -1,0 +1,322 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_208.mp4",
+  "mode": "guided",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": "2.0",
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a group of people gathered in a cozy, festive setting, possibly a coffee shop or a similar establishment, with holiday decorations. The characters are seated on couches and chairs, engaged in conversation. The environment is warm and inviting, with a mix of casual and festive attire, suggesting a relaxed and social atmosphere.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts two individuals seated at a table, engaged in a conversation. The setting appears to be a cozy café or restaurant, decorated with festive elements, suggesting a holiday season. The individuals are dressed casually, with one wearing a red plaid shirt and the other in a dark sweater. They are seated at a round table with mugs and a pastry, indicating a relaxed, social interaction. The conversation seems to revolve around a past event, with one person inquiring about a memory and the other recounting a specific incident involving a bird and a lack of a camera.",
+        "observations": [],
+        "unknowns": [
+          "The exact nature of the bird and the reason for wanting to take a picture.",
+          "The significance of the churro guy in the context of the conversation."
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 22.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 25.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_002/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 29.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_002/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The characters are engaged in a casual conversation, discussing a recent experience involving a pretty bird and a churro. The dialogue includes a mix of light-hearted banter and a moment of mishap with a churro stain.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "We saw that really pretty bird, and I wanted to take a picture, but I didn't have my camera.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker mentions wanting to take a picture of a pretty bird but not having a camera.",
+            "interpretation": "The speaker is sharing a recent experience, which is relevant to the conversation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Okay. First of all, chasing the churro guy is not jogging.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker clarifies that chasing the churro guy is not jogging.",
+            "interpretation": "The speaker is providing clarification, which is helpful in the context of the conversation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, this is so good. You have got to try it.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker enthusiastically recommends trying something.",
+            "interpretation": "The speaker is encouraging the other person to try something, which is helpful.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, damn, I got it on my pants.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker expresses frustration about getting something on their pants.",
+            "interpretation": "The speaker is sharing a recent experience, which is relevant to the conversation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Here, I'll get it.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker offers to clean up the mess.",
+            "interpretation": "The speaker is offering to help, which is helpful.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "We better take these off upstairs or that stain's gonna...",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker suggests taking the churro off before it stains the pants.",
+            "interpretation": "The speaker is providing advice, which is helpful.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 39.0,
+      "frames": [
+        {
+          "timestamp_seconds": 27.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_003/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 31.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_003/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 34.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_003/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 38.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_003/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a moment of embarrassment and concern among friends. One character realizes they have a stain on their pants and offers to clean it up. The conversation suggests they need to take the pants off before a date, indicating the stain is noticeable and potentially embarrassing. The dialogue shows a mix of concern and humor, with one character apologizing to another.",
+        "observations": [],
+        "unknowns": [
+          {
+            "gap": "harshness",
+            "behavior": "softened_wording",
+            "polarity": "ambiguous",
+            "modality": "verbal",
+            "evidence_quote": "Sorry, Rach.",
+            "evidence_frame_time": [
+              37.92,
+              39.36
+            ],
+            "evidence_description": "The character apologizes to Rach, indicating a sense of responsibility or concern for the other person's feelings.",
+            "interpretation": "The character feels responsible for the situation and wants to make amends, possibly due to the inconvenience caused.",
+            "confidence": 0.7,
+            "interlocutor_response": null
+          }
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 4,
+      "start": 36.0,
+      "end": 41.01,
+      "frames": [
+        {
+          "timestamp_seconds": 36.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_004/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 40.76,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_208/window_004/frame_01.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation among friends, possibly in a living room setting, with a festive Christmas tree in the background. The characters are seated, engaging in dialogue, and one character expresses disbelief and sympathy.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "core_issue_identification",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "That was unbelievable.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker expresses disbelief about a recent event.",
+            "interpretation": "The speaker is reacting to a surprising or shocking event.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Name or summarize the main issue raised in the preceding turn without replacing it with a different topic.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah, wow. Sorry, Rach.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker expresses sympathy and acknowledges the other person's reaction.",
+            "interpretation": "The speaker is offering an apology and empathy.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "core_issue_identification",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I don't believe they're brother and sister.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker expresses disbelief about a familial relationship.",
+            "interpretation": "The speaker is questioning the authenticity of a familial relationship.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Name or summarize the main issue raised in the preceding turn without replacing it with a different topic.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    }
+  ]
+}

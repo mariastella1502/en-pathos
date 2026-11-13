@@ -1,0 +1,147 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_121.mp4",
+  "mode": "guided",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": "2.0",
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation between two characters, one of whom is expressing reluctance about participating in a strip club scenario with the other. The reluctance is attributed to the other character's potential appearance and longevity issues.",
+        "observations": [],
+        "unknowns": [
+          {
+            "gap": "information_relevance",
+            "behavior": "core_issue_identification",
+            "polarity": "ambiguous",
+            "modality": "verbal",
+            "evidence_quote": null,
+            "evidence_frame_time": [
+              0.0,
+              3.7800000000000002
+            ],
+            "evidence_description": "The speaker suggests a strip club scenario with the other character.",
+            "interpretation": "The core issue is the reluctance of one character to participate in a strip club scenario.",
+            "confidence": 0.6,
+            "interlocutor_response": null
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "core_issue_identification",
+            "polarity": "ambiguous",
+            "modality": "verbal",
+            "evidence_quote": null,
+            "evidence_frame_time": [
+              4.1,
+              5.7
+            ],
+            "evidence_description": "The speaker suggests that they can be guys together.",
+            "interpretation": "The core issue is the reluctance of one character to participate in a strip club scenario.",
+            "confidence": 0.6,
+            "interlocutor_response": null
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "core_issue_identification",
+            "polarity": "ambiguous",
+            "modality": "verbal",
+            "evidence_quote": null,
+            "evidence_frame_time": [
+              6.28,
+              7.2
+            ],
+            "evidence_description": "The speaker expresses disagreement with the other character's suggestion.",
+            "interpretation": "The core issue is the reluctance of one character to participate in a strip club scenario.",
+            "confidence": 0.6,
+            "interlocutor_response": null
+          }
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a tense interaction between two characters in a living room setting. One character is standing with hands on hips, while the other character is standing with arms crossed, appearing defensive. The room is furnished with a yellow couch, a brown leather chair, and a dartboard on the wall. The dialogue suggests a confrontational tone, with one character making a threat or suggestion about the other's appearance and behavior.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_quote_not_in_transcript"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 24.92,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 21.46,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 24.67,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_121/window_002/frame_02.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A woman is confronting a man in a domestic setting, possibly a living room or kitchen. The woman appears to be angry and is gesturing emphatically. The man is standing and seems to be listening or reacting to the woman's statements. The woman's tone suggests she is trying to convince the man to do something, possibly related to a group activity involving naked girls.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    }
+  ]
+}

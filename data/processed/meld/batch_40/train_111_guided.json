@@ -1,0 +1,674 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_111.mp4",
+  "mode": "guided",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": "2.0",
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation between two individuals, one in a casual outfit and the other in a suit, discussing the amount of sex the casual-dressed individual has had today.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The conversation revolves around a man discussing his lack of sexual activity, expressing frustration and self-doubt.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 22.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 25.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_002/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 29.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_002/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character is discussing a past incident, expressing regret and seeking reassurance from another person.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 39.0,
+      "frames": [
+        {
+          "timestamp_seconds": 27.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_003/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 31.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_003/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 34.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_003/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 38.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_003/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character in the New York Knicks jersey is discussing a past incident with another person, expressing that it happened to them once and they did it anyway. The other person responds with a casual greeting.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah, once.",
+            "evidence_frame_time": 31.08,
+            "evidence_description": "The character confirms that the incident happened to them once.",
+            "interpretation": "The character is providing a specific detail in response to the other person's question.",
+            "confidence": 0.7,
+            "interlocutor_response": null,
+            "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_003/frame_01.jpg",
+            "screenshot_status": "model_observed_frame",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_frame_time_not_supplied",
+          "observation_2_frame_time_not_supplied",
+          "observation_3_frame_time_not_supplied"
+        ]
+      }
+    },
+    {
+      "window_id": 4,
+      "start": 36.0,
+      "end": 48.0,
+      "frames": [
+        {
+          "timestamp_seconds": 36.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_004/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 40.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_004/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 43.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_004/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 47.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_004/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a tense interaction between two characters, one wearing a New York Knicks jersey, in a living room setting. The character in the jersey seems to be making a bold statement, followed by a casual greeting, and then expressing concern about potential harm. The other character, dressed in a suit, appears to be reacting to the situation.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 5,
+      "start": 45.0,
+      "end": 57.0,
+      "frames": [
+        {
+          "timestamp_seconds": 45.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_005/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 49.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_005/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 52.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_005/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 56.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_005/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation about a video game, specifically PlayStation, with one person expressing dissatisfaction with the game and another agreeing.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "It's like playing a little PlayStation, huh?",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker is discussing the video game PlayStation.",
+            "interpretation": "The speaker is providing context about the topic of the conversation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "That's whack.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker expresses disapproval of the game.",
+            "interpretation": "The speaker is providing their opinion on the game's quality.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "PlayStation is whack.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker reiterates their disapproval of the game.",
+            "interpretation": "The speaker is emphasizing their negative opinion of the game.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Sup with the whack PlayStation sub.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker expresses disapproval of the game and possibly the subculture surrounding it.",
+            "interpretation": "The speaker is extending their criticism to the broader community associated with the game.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 6,
+      "start": 54.0,
+      "end": 66.0,
+      "frames": [
+        {
+          "timestamp_seconds": 54.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_006/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 58.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_006/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 61.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_006/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 65.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_006/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character in the video is expressing frustration with the PlayStation, calling it 'whack' and questioning if he is 19 years old.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "PlayStation is whack.",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is expressing dissatisfaction with the PlayStation.",
+            "interpretation": "The character is discussing the quality of the PlayStation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Sup with the whack PlayStation sub.",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is calling the PlayStation 'whack' and expressing frustration.",
+            "interpretation": "The character is expressing dissatisfaction with the PlayStation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Huh?",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is expressing confusion or disbelief.",
+            "interpretation": "The character is questioning the quality of the PlayStation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Come on, am I 19 or what?",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is questioning their age in relation to the PlayStation.",
+            "interpretation": "The character is expressing disbelief or frustration.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 7,
+      "start": 63.0,
+      "end": 75.0,
+      "frames": [
+        {
+          "timestamp_seconds": 63.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_007/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 67.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_007/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 70.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_007/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 74.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_007/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character in the suit is being criticized about their appearance, with another character expressing disbelief and asking for clarification.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 8,
+      "start": 72.0,
+      "end": 84.0,
+      "frames": [
+        {
+          "timestamp_seconds": 72.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_008/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 76.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_008/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 79.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_008/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 83.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_008/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a conversation between two individuals in a living room setting. One person, dressed in a suit, is seated while the other, wearing a basketball jersey, stands. The seated person is being told to change into something more appropriate, possibly due to a formal event or meeting. The standing person is being asked to keep the seated person's underwear.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "On a scale from one to ten, ten being the dumbest a person can look, you are definitely 19.",
+            "evidence_frame_time": null,
+            "evidence_description": "The seated person is being humorously rated on a scale of 1 to 10, with 10 being the dumbest, indicating the person is being made fun of.",
+            "interpretation": "The seated person is being humorously rated on a scale of 1 to 10, with 10 being the dumbest, indicating the person is being made fun of.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Come on, man.",
+            "evidence_frame_time": null,
+            "evidence_description": "The standing person is encouraging the seated person to change their appearance.",
+            "interpretation": "The standing person is encouraging the seated person to change their appearance.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Really?",
+            "evidence_frame_time": null,
+            "evidence_description": "The seated person is questioning the standing person's assessment.",
+            "interpretation": "The seated person is questioning the standing person's assessment.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "How old?",
+            "evidence_frame_time": null,
+            "evidence_description": "The seated person is asking for clarification about the assessment.",
+            "interpretation": "The seated person is asking for clarification about the assessment.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Young.",
+            "evidence_frame_time": null,
+            "evidence_description": "The standing person confirms that the seated person is young.",
+            "interpretation": "The standing person confirms that the seated person is young.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "You're a man-child.",
+            "evidence_frame_time": null,
+            "evidence_description": "The standing person refers to the seated person as a 'man-child', indicating a lack of maturity.",
+            "interpretation": "The standing person refers to the seated person as a 'man-child', indicating a lack of maturity.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Okay?",
+            "evidence_frame_time": null,
+            "evidence_description": "The seated person acknowledges the standing person's statement.",
+            "interpretation": "The seated person acknowledges the standing person's statement.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Now go get changed because everybody's ready.",
+            "evidence_frame_time": null,
+            "evidence_description": "The standing person instructs the seated person to change their appearance.",
+            "interpretation": "The standing person instructs the seated person to change their appearance.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "And please, oh please, keep my underwear.",
+            "evidence_frame_time": null,
+            "evidence_description": "The standing person is asking the seated person to keep their underwear.",
+            "interpretation": "The standing person is asking the seated person to keep their underwear.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, thanks.",
+            "evidence_frame_time": null,
+            "evidence_description": "The seated person expresses gratitude.",
+            "interpretation": "The seated person expresses gratitude.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 9,
+      "start": 81.0,
+      "end": 85.46,
+      "frames": [
+        {
+          "timestamp_seconds": 81.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_009/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 85.21,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_111/window_009/frame_01.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character in the kitchen is expressing frustration or exasperation, possibly about the state of the room or a recent interaction. The dialogue suggests a playful or teasing tone, with the character emphasizing their status as a 'man-child' multiple times.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "And I'm not a man-child.",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is emphasizing their status as a 'man-child' multiple times.",
+            "interpretation": "The character is trying to clarify their status and possibly seeking validation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I'm an old man-child.",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is emphasizing their status as a 'man-child' multiple times.",
+            "interpretation": "The character is trying to clarify their status and possibly seeking validation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "relevant_detail_selection",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I'm a man-child.",
+            "evidence_frame_time": null,
+            "evidence_description": "The character is emphasizing their status as a 'man-child' multiple times.",
+            "interpretation": "The character is trying to clarify their status and possibly seeking validation.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence",
+            "behavior_definition_en": "Select a detail directly useful to the current request while omitting peripheral information.",
+            "gap_label_en": "Information relevance"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    }
+  ]
+}

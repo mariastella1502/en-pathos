@@ -155,7 +155,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--scenes', type=Path, default=Path('data/processed/meld/scenes'))
     parser.add_argument('--out', type=Path, default=Path('data/processed/meld/batch_40'))
-    parser.add_argument('--taxonomy', type=Path, default=Path('data/benchmarks/empathy_taxonomy_detailed_en.json'))
+    parser.add_argument('--taxonomy', type=Path, default=Path('data/benchmarks/empathy_taxonomy_detailed.json'))
     parser.add_argument('--count', type=int, default=40)
     parser.add_argument('--seed', type=int, default=42)
     parser.add_argument('--reset-selection', action='store_true')

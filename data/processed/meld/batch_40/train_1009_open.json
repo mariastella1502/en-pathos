@@ -1,0 +1,317 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_1009.mp4",
+  "mode": "open",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": null,
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A woman is sitting on a couch, appearing distressed, while another woman enters the room, seemingly offering comfort.",
+        "observations": [],
+        "unknowns": [
+          "The true intentions of the first woman's apology and the second woman's response are unclear, as the context and the full conversation are not provided."
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a casual gathering in a living room, with one person lounging on a couch, another lying on the floor, and a pizza delivery person interacting with someone in the kitchen area.",
+        "observations": [],
+        "unknowns": [
+          "The specific reason for the person lying on the floor.",
+          "The context of the casual gathering and the interaction between the characters."
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 22.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 25.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_002/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 29.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_002/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A person is receiving a pizza delivery, but the customer expresses dissatisfaction with the order, specifically mentioning a fat-free crust and extra cheese. The delivery person confirms the order details and mentions a name, G. Stephanopoulos, which the customer acknowledges.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 39.0,
+      "frames": [
+        {
+          "timestamp_seconds": 27.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_003/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 31.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_003/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 34.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_003/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 38.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_003/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The characters are engaged in a conversation about someone's appearance, specifically mentioning a person's suit and tie. The setting appears to be a cozy living room with a kitchen in the background.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 4,
+      "start": 36.0,
+      "end": 48.0,
+      "frames": [
+        {
+          "timestamp_seconds": 36.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_004/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 40.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_004/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 43.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_004/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 47.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_004/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The group is gathered in the living room, seemingly discussing someone's appearance and the arrival of a pizza delivery.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "expressing disbelief",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, God.",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker expresses disbelief in a tone that suggests they are reacting to something unexpected or absurd.",
+            "interpretation": "The speaker is reacting to a surprising or outlandish situation, possibly related to the arrival of the pizza or someone's appearance.",
+            "confidence": 0.7,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "expressing surprise",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "What, are you nuts?",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker expresses surprise in a tone that suggests they are reacting to something unexpected or absurd.",
+            "interpretation": "The speaker is reacting to a surprising or outlandish situation, possibly related to the arrival of the pizza or someone's appearance.",
+            "confidence": 0.7,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "expressing surprise",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "We've got George Stephanopoulos' pizza!",
+            "evidence_frame_time": null,
+            "evidence_description": "The speaker expresses surprise in a tone that suggests they are reacting to something unexpected or absurd.",
+            "interpretation": "The speaker is reacting to a surprising or outlandish situation, possibly related to the arrival of the pizza or someone's appearance.",
+            "confidence": 0.7,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_3_duplicate"
+        ]
+      }
+    },
+    {
+      "window_id": 5,
+      "start": 45.0,
+      "end": 57.0,
+      "frames": [
+        {
+          "timestamp_seconds": 45.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_005/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 49.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_005/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 52.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_005/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 56.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_005/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The characters are discussing a friend of Big Bird and then seem to be observing someone or something in the room, possibly through a window.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "expressing excitement about pizza",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "I see pizza! I see pizza!",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is expressing enthusiasm about the presence of pizza.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "requesting to see something",
+            "polarity": "helpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, I want to see. Let me see. Let me see.",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is asking to be allowed to see something.",
+            "confidence": 0.8,
+            "interlocutor_response": null,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          }
+        ],
+        "unknowns": [
+          "The reason for the characters' interest in Big Bird's friend and the presence of pizza.",
+          "The identity of the person or thing they are spying on."
+        ],
+        "validation_errors": [
+          "observation_0_quote_not_in_transcript",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 6,
+      "start": 54.0,
+      "end": 58.11,
+      "frames": [
+        {
+          "timestamp_seconds": 54.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_006/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 57.86,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_1009/window_006/frame_01.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character appears to be in a kitchen, speaking about someone they are spying on, as indicated by the repeated phrase 'Who are we spying on?'",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "repeated_query",
+            "polarity": "ambiguous",
+            "modality": "verbal",
+            "evidence_quote": "Who are we spying on?",
+            "evidence_frame_time": null,
+            "interpretation": "The character seems to be questioning who they are spying on, possibly indicating uncertainty or concern.",
+            "confidence": 0.6,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          }
+        ],
+        "unknowns": [
+          "The reason for spying and the identity of the person being spied on."
+        ],
+        "validation_errors": [
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    }
+  ]
+}

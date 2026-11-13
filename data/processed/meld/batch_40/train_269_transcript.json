@@ -1,0 +1,111 @@
+{
+  "text": " It's actually going to be just family. You two think of me as family? Oh, I have to ask you something now and be honest. Do you want me to sing Careless Whisper or Lady in Red?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.52,
+      "text": " It's actually going to be just family.",
+      "tokens": [
+        50365,
+        467,
+        311,
+        767,
+        516,
+        281,
+        312,
+        445,
+        1605,
+        13,
+        50491
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20603594956574617,
+      "compression_ratio": 1.2661870503597121,
+      "no_speech_prob": 4.214453785955641e-11
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.2600000000000002,
+      "end": 5.48,
+      "text": " You two think of me as family?",
+      "tokens": [
+        50528,
+        509,
+        732,
+        519,
+        295,
+        385,
+        382,
+        1605,
+        30,
+        50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20603594956574617,
+      "compression_ratio": 1.2661870503597121,
+      "no_speech_prob": 4.214453785955641e-11
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.56,
+      "end": 12.120000000000001,
+      "text": " Oh, I have to ask you something now and be honest.",
+      "tokens": [
+        50793,
+        876,
+        11,
+        286,
+        362,
+        281,
+        1029,
+        291,
+        746,
+        586,
+        293,
+        312,
+        3245,
+        13,
+        50971
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20603594956574617,
+      "compression_ratio": 1.2661870503597121,
+      "no_speech_prob": 4.214453785955641e-11
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.68,
+      "end": 17.240000000000002,
+      "text": " Do you want me to sing Careless Whisper or Lady in Red?",
+      "tokens": [
+        50999,
+        1144,
+        291,
+        528,
+        385,
+        281,
+        1522,
+        9532,
+        1832,
+        41132,
+        610,
+        420,
+        11256,
+        294,
+        4477,
+        30,
+        51227
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20603594956574617,
+      "compression_ratio": 1.2661870503597121,
+      "no_speech_prob": 4.214453785955641e-11
+    }
+  ],
+  "language": "en"
+}

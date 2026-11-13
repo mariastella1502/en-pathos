@@ -1,0 +1,322 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_109.mp4",
+  "mode": "open",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": null,
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A group of people are in a bar, engaging in a conversation. One person offers money, another declines, and a third expresses disapproval.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A group of people are gathered in a bar, engaging in various interactions. One person is seated at a table, while others are standing or seated around the bar. The atmosphere appears casual and social, with drinks visible on the table.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 22.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 25.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_002/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 29.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_002/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The characters are discussing a missing call and the absence of a friend, while one character is at a club, and another is in Vermont.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "expressing concern",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "Well, I just checked our messages and Joshua didn't call.",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is expressing concern about the missing call.",
+            "confidence": 0.8,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "expressing concern",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "I mean, you would think he would be worried about me not showing up at his club.",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is concerned about the missing call and the friend's absence at the club.",
+            "confidence": 0.8,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "expressing frustration",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "Oh, and you know what makes it so much worse?",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is frustrated about the missing call and the friend's absence at the club.",
+            "confidence": 0.8,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "expressing concern",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "Ross is all happy in Vermont.",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is concerned about the friend's happiness in Vermont.",
+            "confidence": 0.8,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "expressing frustration",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "Come on, look where you are!",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is frustrated about the friend's absence at the club.",
+            "confidence": 0.8,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 39.0,
+      "frames": [
+        {
+          "timestamp_seconds": 27.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_003/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 31.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_003/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 34.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_003/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 38.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_003/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene takes place in a dimly lit bar, with people seated at tables, engaging in conversation and enjoying drinks. The atmosphere is relaxed, with a mix of casual and slightly more formal attire. The bar has a cozy, intimate feel, with red lighting and a stage area where a performer is seen in one of the frames.",
+        "observations": [],
+        "unknowns": [
+          "The specific details of the conversation and the relationship between the people at the table are not clear from the provided frames.",
+          "The exact nature of the bar show or special event is not clear from the provided frames."
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 4,
+      "start": 36.0,
+      "end": 48.0,
+      "frames": [
+        {
+          "timestamp_seconds": 36.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_004/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 40.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_004/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 43.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_004/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 47.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_004/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A group of people are in a bar, engaging in casual conversation and socializing. One person is holding a drink and appears to be interacting with others. The setting is dimly lit, with a pool table and bar area visible in the background.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 5,
+      "start": 45.0,
+      "end": 57.0,
+      "frames": [
+        {
+          "timestamp_seconds": 45.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_005/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 49.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_005/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 52.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_005/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 56.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_005/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A man is discussing his plans to get drunk and call two people, Kathy and Jeff, after consuming alcohol. He seems to be testing the patience of someone off-screen.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_quote_not_in_transcript",
+          "observation_1_quote_not_in_transcript"
+        ]
+      }
+    },
+    {
+      "window_id": 6,
+      "start": 54.0,
+      "end": 63.63,
+      "frames": [
+        {
+          "timestamp_seconds": 54.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_006/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 57.29,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_006/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 60.34,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_006/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 63.38,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_006/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character is discussing their plans to get drunk and call different people, expressing a lack of self-control and a desire for another lap dance.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time",
+          "observation_4_invalid_frame_time",
+          "observation_5_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 7,
+      "start": 63.0,
+      "end": 63.63,
+      "frames": [
+        {
+          "timestamp_seconds": 63.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_109/window_007/frame_00.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A woman in a red dress is seated at a bar, surrounded by dim lighting and other patrons. She appears to be engaged in a conversation, possibly about someone needing a lap dance.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_142.mp4",
+  "mode": "guided",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": "2.0",
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 7.74,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_142/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 3.87,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_142/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.49,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_142/window_000/frame_02.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a group of people in a cozy, lived-in room, possibly a living room or a common area. The setting includes a mix of furniture, such as a round table, chairs, and a couch, with various personal items like a guitar, a television, and a poster on the wall. The group appears to be engaged in casual activities, with one person speaking on the phone and others sitting or standing around, some playing instruments or reading.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time"
+        ]
+      }
+    }
+  ]
+}

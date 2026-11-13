@@ -1,0 +1,247 @@
+{
+  "video": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/scenes/train_223.mp4",
+  "mode": "open",
+  "model": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+  "taxonomy_version": null,
+  "windows": [
+    {
+      "window_id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "frames": [
+        {
+          "timestamp_seconds": 0.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_000/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 4.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_000/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 7.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_000/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 11.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_000/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The scene depicts a humorous interaction involving a duck and a cooking show, with a character expressing frustration about watching cooking channels.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 1,
+      "start": 9.0,
+      "end": 21.0,
+      "frames": [
+        {
+          "timestamp_seconds": 9.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_001/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 13.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_001/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 16.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_001/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 20.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_001/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character is in a living room, expressing frustration about the cooking channel and the use of a broiling pan.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time",
+          "observation_2_invalid_frame_time",
+          "observation_3_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 2,
+      "start": 18.0,
+      "end": 30.0,
+      "frames": [
+        {
+          "timestamp_seconds": 18.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_002/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 22.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_002/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 25.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_002/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 29.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_002/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "missing_or_invalid_observations_array"
+        ]
+      }
+    },
+    {
+      "window_id": 3,
+      "start": 27.0,
+      "end": 39.0,
+      "frames": [
+        {
+          "timestamp_seconds": 27.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_003/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 31.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_003/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 34.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_003/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 38.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_003/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A woman in a pink sweater is in a kitchen, and a man in a plaid shirt enters the room.",
+        "observations": [
+          {
+            "gap": "information_relevance",
+            "behavior": "mentioning a catalog",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "William Sonoma, fall catalog, page 27.",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is providing irrelevant information.",
+            "confidence": 0.6,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "mentioning a catalog",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "Expect it in four to six weeks.",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is providing irrelevant information.",
+            "confidence": 0.6,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "mentioning a catalog",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "Um, hey, uh, Joey's gonna be at the telethon for the rest of the day, and we have the whole place to ourselves.",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is providing irrelevant information.",
+            "confidence": 0.6,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          },
+          {
+            "gap": "information_relevance",
+            "behavior": "mentioning a catalog",
+            "polarity": "unhelpful",
+            "modality": "verbal",
+            "evidence_quote": "Yeah, so?",
+            "evidence_frame_time": null,
+            "interpretation": "The speaker is providing irrelevant information.",
+            "confidence": 0.6,
+            "screenshot_path": null,
+            "screenshot_status": "no_visual_evidence"
+          }
+        ],
+        "unknowns": [],
+        "validation_errors": []
+      }
+    },
+    {
+      "window_id": 4,
+      "start": 36.0,
+      "end": 48.0,
+      "frames": [
+        {
+          "timestamp_seconds": 36.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_004/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 40.08,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_004/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 43.92,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_004/frame_02.jpg"
+        },
+        {
+          "timestamp_seconds": 47.75,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_004/frame_03.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The character is discussing booking time with someone, possibly for a romantic or intimate activity, but declines the offer.",
+        "observations": [],
+        "unknowns": [],
+        "validation_errors": [
+          "observation_0_invalid_frame_time"
+        ]
+      }
+    },
+    {
+      "window_id": 5,
+      "start": 45.0,
+      "end": 52.44,
+      "frames": [
+        {
+          "timestamp_seconds": 45.25,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_005/frame_00.jpg"
+        },
+        {
+          "timestamp_seconds": 48.72,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_005/frame_01.jpg"
+        },
+        {
+          "timestamp_seconds": 52.19,
+          "screenshot_path": "/Users/stellaalbarelli/Documents/GitHub/en-pathos/data/processed/meld/batch_40/frames/train_223/window_005/frame_02.jpg"
+        }
+      ],
+      "analysis": {
+        "scene_summary": "A conversation between two characters in a domestic setting, possibly a kitchen, with one character expressing reluctance and the other character inquiring about the reason.",
+        "observations": [],
+        "unknowns": [
+          "The exact reason for the reluctance is not clear from the provided information.",
+          "The emotional state of the characters and their relationship dynamics are not discernible from the provided frames."
+        ],
+        "validation_errors": [
+          "observation_0_invalid_frame_time",
+          "observation_1_invalid_frame_time"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "text": " Yeah, yeah, everybody's here. Hey everybody, say hi to Julie in New Mexico! Hey everybody, say hi to Julie in New Mexico!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Yeah, yeah, everybody's here.",
+      "tokens": [
+        50365,
+        865,
+        11,
+        1338,
+        11,
+        2201,
+        311,
+        510,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25631141662597656,
+      "compression_ratio": 1.635135135135135,
+      "no_speech_prob": 3.0525200422903964e-11
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 5.0,
+      "text": " Hey everybody, say hi to Julie in New Mexico!",
+      "tokens": [
+        50465,
+        1911,
+        2201,
+        11,
+        584,
+        4879,
+        281,
+        18794,
+        294,
+        1873,
+        8612,
+        0,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25631141662597656,
+      "compression_ratio": 1.635135135135135,
+      "no_speech_prob": 3.0525200422903964e-11
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.0,
+      "end": 8.0,
+      "text": " Hey everybody, say hi to Julie in New Mexico!",
+      "tokens": [
+        50615,
+        1911,
+        2201,
+        11,
+        584,
+        4879,
+        281,
+        18794,
+        294,
+        1873,
+        8612,
+        0,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25631141662597656,
+      "compression_ratio": 1.635135135135135,
+      "no_speech_prob": 3.0525200422903964e-11
+    }
+  ],
+  "language": "en"
+}

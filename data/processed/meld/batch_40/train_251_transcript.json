@@ -1,0 +1,259 @@
+{
+  "text": " I cannot do this with my left hand. Would you please help me with this too? Okay, let's use this brush. Okay. This stuff? Yeah, careful. This stuff? Yeah, careful. Okay, now you don't want to just sweep it across the lid, okay? Just sweep it. Okie dokie. Okie dokie.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.18,
+      "text": " I cannot do this with my left hand.",
+      "tokens": [
+        50365,
+        286,
+        2644,
+        360,
+        341,
+        365,
+        452,
+        1411,
+        1011,
+        13,
+        50524
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.34,
+      "end": 5.82,
+      "text": " Would you please help me with this too?",
+      "tokens": [
+        50582,
+        6068,
+        291,
+        1767,
+        854,
+        385,
+        365,
+        341,
+        886,
+        30,
+        50656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.0,
+      "end": 9.16,
+      "text": " Okay, let's use this brush.",
+      "tokens": [
+        50715,
+        1033,
+        11,
+        718,
+        311,
+        764,
+        341,
+        5287,
+        13,
+        50823
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.22,
+      "end": 9.52,
+      "text": " Okay.",
+      "tokens": [
+        50826,
+        1033,
+        13,
+        50841
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.36,
+      "end": 11.9,
+      "text": " This stuff?",
+      "tokens": [
+        50933,
+        639,
+        1507,
+        30,
+        50960
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 12.08,
+      "end": 12.66,
+      "text": " Yeah, careful.",
+      "tokens": [
+        50969,
+        865,
+        11,
+        5026,
+        13,
+        50998
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.94,
+      "end": 13.66,
+      "text": " This stuff?",
+      "tokens": [
+        51012,
+        639,
+        1507,
+        30,
+        51048
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 13.84,
+      "end": 14.48,
+      "text": " Yeah, careful.",
+      "tokens": [
+        51057,
+        865,
+        11,
+        5026,
+        13,
+        51089
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 14.74,
+      "end": 18.82,
+      "text": " Okay, now you don't want to just sweep it across the lid, okay?",
+      "tokens": [
+        51102,
+        1033,
+        11,
+        586,
+        291,
+        500,
+        380,
+        528,
+        281,
+        445,
+        22169,
+        309,
+        2108,
+        264,
+        10252,
+        11,
+        1392,
+        30,
+        51306
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 18.96,
+      "end": 19.94,
+      "text": " Just sweep it.",
+      "tokens": [
+        51313,
+        1449,
+        22169,
+        309,
+        13,
+        51362
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 19.94,
+      "end": 20.3,
+      "text": " Okie dokie.",
+      "tokens": [
+        51362,
+        3477,
+        414,
+        360,
+        22872,
+        13,
+        51380
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 20.66,
+      "end": 21.580000000000002,
+      "text": " Okie dokie.",
+      "tokens": [
+        51398,
+        3477,
+        414,
+        360,
+        22872,
+        13,
+        51444
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4588165283203125,
+      "compression_ratio": 1.6319018404907975,
+      "no_speech_prob": 1.1466615851274398e-10
+    }
+  ],
+  "language": "en"
+}
